@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
-        <h1>DigiInnovators</h1>
+        <h1>Hello,deployment is successful/h1>
         <p>Welcome to DigiInnovators </p>
         <p>Deployment successful with GitHub + Atomic Deployment </p>
         
